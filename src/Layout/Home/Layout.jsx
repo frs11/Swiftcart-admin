@@ -1,7 +1,9 @@
+import Navbar from "../../Components/Individual/Navbar";
+
 const Layout = () => {
   return (
     <div>
-      <p>Layout</p>
+      <Navbar></Navbar>
     </div>
   );
 };
